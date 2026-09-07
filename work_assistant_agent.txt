@@ -1,0 +1,5 @@
+Gemini API Key
+AQ.Ab8RN6J0cSsr5VNG1pgosRNCgTvbnIyjd8AjOx516Kv4Jlo8iw
+---
+github
+https://github.com/shelmasry-assistent/work-assistant.git
