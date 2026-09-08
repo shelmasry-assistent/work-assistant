@@ -77,7 +77,7 @@
       "title": "صيانة ماكينة تصوير ماركة كانون",
       "type": "عقد صيانة",
       "party": "شركة المجد للتجارة",
-      "department": "مركز المعلومات",
+      "department": "تقنية المعلومات",
       "assigned": "خالد عادل عبد اللطيف",
       "value": 14671.0,
       "startDate": "2025-11-25",
@@ -438,17 +438,6 @@
       "locationDetails": "الإسكندرية",
       "status": "تعمل",
       "notes": "ماكينة رقم 26"
-    },
-    {
-      "serialNumber": "NMH01802",
-      "assetName": "Canon",
-      "assetType": "ماكينة تصوير",
-      "contractNumber": "1463",
-      "contractTitle": "صيانة ماكينة تصوير ماركة كانون",
-      "department": "قطاع الشئون الفنية",
-      "locationDetails": "الدور التاسع",
-      "status": "تعمل",
-      "notes": null
     }
   ],
   "maintenanceLogs": []
