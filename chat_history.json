@@ -18,5 +18,21 @@
   {
     "role": "assistant",
     "content": "**بسم الله الرحمن الرحيم**\n\n**السيد الأستاذ / رئيس قطاع الشئون المالية**  \n**تحية طيبة وبعد،،،**\n\n**الموضوع: بشأن طلب تجديد عقد صيانة ماكينات التصوير (ماركة كيوسيرا)**\n\nإيماءً إلى الخطاب الوارد إلينا من **شركة (رويال لنظم التكنولوجيا)** بتاريخ **07/09/2026**، والمتضمن طلب تجديد التعاقد الخاص بصيانة ماكينات التصوير ماركة كيوسيرا (**Kyocera**) المبرم بين الهيئة والشركة، وذلك بنفس الشروط والأسعار المتفق عليها في العقد الحالي دون أي تعديل.\n\nيرجى التكرم بالاطلاع والتوجيه نحو دراسة الطلب، وإفادتنا بمدى إمكانية السير في إجراءات تجديد التعاقد لاتخاذ اللازم.\n\nمرفق لسيادتكم صورة من خطاب الشركة المشار إليه.\n\n**وتفضلوا بقبول فائق الاحترام والتقدير،،،**\n\n---\n**مُعد الخطاب:** إدارة المراسلات والعقود  \n**التاريخ:** 07/09/2026"
+  },
+  {
+    "role": "user",
+    "content": "ما هي حالة ماكينات التصوير والأصول الموزعة على الإدارات وسجلات الصيانة الأخيرة؟"
+  },
+  {
+    "role": "assistant",
+    "content": "عذراً، حدث خطأ أثناء الاتصال أو تجاوز الحد المسموح: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.StreamGenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}"
+  },
+  {
+    "role": "user",
+    "content": "ما هي حالة ماكينات التصوير والأصول الموزعة على الإدارات وسجلات الصيانة الأخيرة؟"
+  },
+  {
+    "role": "assistant",
+    "content": "عذراً، حدث خطأ أثناء الاتصال أو تجاوز الحد المسموح: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.StreamGenerateContent'}}]}}"
   }
 ]
